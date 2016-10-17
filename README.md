@@ -6,6 +6,8 @@ Target Shooter!
 Instructions:
 -------------
 
+0. `git clone` this repo into your projects folder
+
 1. Use some sort of `live-server` service in the project root (here) pointing to index.html
 
 2. Move with `WASD`
