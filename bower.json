@@ -1,0 +1,21 @@
+{
+  "name": "topdown_game",
+  "authors": [
+    "'"
+  ],
+  "description": "A topdown game built using PhaserJS",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser": "^2.6.2",
+    "jquery": "^3.1.1"
+  }
+}

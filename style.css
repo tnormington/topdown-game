@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    cursor: url(images/aimer.png), auto;
+}
+
+body.targeting {
+    cursor: url(images/circle_aimer_large.png), auto;
+}
+
+.score-wrapper {
+    font-size: 2em;
+    color: #fff;
+    position: fixed;
+    padding: 1em;
+}
