@@ -1,5 +1,7 @@
-Topdown Game
-============
+Target Shooter!
+===============
+
+![alt text](images/logo.png "Target Shooter logo")
 
 Instructions:
 -------------
